@@ -1,0 +1,30 @@
+---------Lab_1--------------
+
+#1 
+Done
+
+#2 
+cat displays the content of the file all at once
+more allows you to scroll through the content from start
+
+#3
+uname -a
+
+#4
+date
+
+#5
+cal 12 2001
+
+#6
+touch fileName.txt
+
+#7
+echo hello world
+
+#8
+rm => removes files
+rmdir => removes empty dir only
+
+#9
+man passwd

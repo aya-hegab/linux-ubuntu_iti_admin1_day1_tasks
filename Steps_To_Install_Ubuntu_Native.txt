@@ -1,0 +1,52 @@
+- Download Ubuntu from this Link:
+File Name: *.iso   
+File Size: 4.7 GB
+Ubuntu 22.04.3 LTS
+https://ubuntu.com/download/desktop
+https://releases.ubuntu.com/22.04.3/ubuntu-22.04.3-desktop-amd64.iso?_ga=2.76527445.1970219696.1701865687-1824663045.1698668462
+
+choose any link, and select file with name:  ubuntu-22.04.3-desktop-amd64.iso
+
+
+- You must have USB Flash during this course/Installation with minimum size 8 GB
+
+- You must format this USB Flash of type NTFS using this steps:
+https://support.xbox.com/en-US/help/hardware-network/connect-network/format-flash-drive-to-ntfs-windows
+
+- Burn the ISO File ubuntu****.iso to USB Flash using this application/steps:
+https://linuxhint.com/create-bootable-centos-usb/
+
+- Your hard disk must be of Type "Basic", please search on the internet/Google and try to try to make your Hardisk of type "Basic" before course start.
+Most probably (in all cases) you must format your all hardisk to make this changes, so if your Hardisk is of type Dynamic, then please backup your data to another Hardisk and format Hardisk.
+https://www.alphr.com/convert-to-dynamic-disk/
+https://learn.microsoft.com/en-us/windows-server/storage/disk-management/change-a-dynamic-disk-back-to-a-basic-disk
+
+- You must have new partition with minimum space 50 GB on your H.D 
+https://support.microsoft.com/en-us/windows/create-and-format-a-hard-disk-partition-bbb8e185-1bda-ecd1-3465-c9728f7d7d2e
+
+- This New partition must be of Type "Primary", please search on the internet/Google and try to try to make this new partition primary before course start
+https://www.minitool.com/lib/primary-partition.html
+
+
+- download this apps on your PC:
+Virtual-PC.exe
+VMware-player.exe
+https://download.cnet.com/Windows-Virtual-PC-64-bit/3000-18513_4-75451520.html
+https://www.virtualbox.org/wiki/Downloads
+https://www.vmware.com/go/getplayer-win
+
+- Confrim that this apps (VMware-player, Virtual-PC) is installed at your PC, by running the installled applications after installed.
+If you face any issue, please search on the internet/Google and try to fix it before course start
+
+-Enable the "Virtual Technology" on your PC, to enable it you must change the setting at your BIOS settings.
+
+- To go to BIOS settings, it is different from PC/Laptop/vendor/model to another.
+Check the Google/Below_URL for accurate method to go to your BIOS Settings for your PC/laptop model:
+https://store.hp.com/us/en/tech-takes/how-to-enter-bios-setup-windows-pcs
+
+- To enable Virtual Technology, it is different from PC/Laptop/vendor/model to another.
+Check the Google/Below_URL for accurate method to enable virtual Technology for your PC/laptop model:
+https://support.bluestacks.com/hc/en-us/articles/115003174386-How-can-I-enable-virtualization-VT-on-my-PC-
+
+
+You must complete this steps before First Day of Linux Course
